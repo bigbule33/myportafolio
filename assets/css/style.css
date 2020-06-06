@@ -843,7 +843,13 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #111;
+  color:#728394;
+  /*original color 
+  color: #111; 
+  */
+  
+
+
 }
 
 .testimonials .testimonial-item h4 {
